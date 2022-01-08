@@ -1,16 +1,20 @@
-# SuperRDP
 
-[中文](README.md)
+* termsrv.dll: 10.0.19041.1387 | 2022-01-08
+* termsrv.dll: 10.0.22523.1000 | 2021-12-22
+* termsrv.dll: 10.0.17763.1369 | 2021-12-08
+* termsrv.dll: 10.0.19041.1 | 2021-12-08
+* termsrv.dll: 10.0.19041.1387 | 2021-11-28
+* termsrv.dll: 10.0.19041.84 | 2021-11-23
+* termsrv.dll: 10.0.17763.292 | 2021-11-20
 
-SuperRDP is a new version rdpwarp base on the [rdpwrap](https://github.com/stascorp/rdpwrap) by [stascorp](https://github.com/stascorp).
+* you can reinstall SuperRDP by `SuperRDP.exe udpate`, not need use option 2 and option 1 to update. Also you can use `SuperRDP_update.bat`.
 
-Thanks for [stascorp](https://github.com/stascorp) so much.
-
-SuperRDP is written in C, and rebuild the code about patch and hook.
-
-I'm very dependent on the Remote Desktop service, so I will keep updating to support for the new version of termsrv.
-
-# update
+* termsrv.dll: 10.0.18362.1 | 2021-11-19
+* termsrv.dll: 10.0.22504.1000 | 2021-11-19
+* termsrv.dll: 10.0.17763.2300 | 2021-11-19
+* termsrv.dll: 10.0.22499.1000 | 2021-11-12
+* termsrv.dll: 10.0.19041.1348 | 2021-11-11
+* os：10.0.22000.318 | termsrv.dll: 10.0.22000.318 | 2021-11-10
 
 Support Windows 11 co_release.
 
@@ -37,10 +41,3 @@ Now update to Windows 10（X64）：
 * os：10.0.19042.782 | termsrv.dll：10.0.19041.782 | 2021-2-4
 * os：10.0.19042.746 | termsrv.dll：10.0.19041.746 | 2021-1-17
 * os：10.0.19042.685 | termsrv.dll：10.0.19041.662 | 2021-1-10
-
-
-# Support me
-
-If you think it make some work, please star it and support me.
-
-![img](pay.png)
